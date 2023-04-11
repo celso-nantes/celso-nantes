@@ -12,6 +12,6 @@ I'm 21 years old and I'm studying Computer Engineering at the Federal University
       > <br /><br />
   <a href="https://instagram.com/celso.nantes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
- <!--- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)--->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
