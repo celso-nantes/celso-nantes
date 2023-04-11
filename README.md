@@ -1,27 +1,19 @@
-<div>
   <h2>Hi, my name is Celso</h2>
-  <div align="center">
-   <!--- <a href="https://github.com/celso-nantes">
-      <img
-        width="49%"
-        height="195px"
-        src="https://github-readme-stats.vercel.app/api?username=celso-nantes&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=296d98&icon_color=296d98&text_color=ffffff&bg_color=ffffff00"
-      />
-      <img
-        width="41%"
-        height="195px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-nantes&layout=compact&langs_count=8&hide_border=true&title_color=296d98&text_color=ffffff&bg_color=ffffff00"
-      />--->
-    </a>
-    <p align="justify">     
+
+ <div>
+  <a href="https://github.com/celso-nantes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celso-nantes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-nantes&layout=compact&langs_count=16&theme=midnight-purple"/> 
+<div> 
+   <p align="justify">     
 I'm 21 years old and I'm studying Computer Engineering at the Federal University of Espírito Santo (UFES)  </a
     </a>
     <p align="justify"> My social network: </a
       > <br /><br />
-    </a>
-    <a href="https://instagram.com/celso.nantes" target="_blank"
-      ><img
-        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=pink"
-        target="_blank"
+  <a href="https://instagram.com/celso.nantes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/378708962645770240" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "cenetti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
