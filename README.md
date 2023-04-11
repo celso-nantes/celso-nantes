@@ -1,5 +1,5 @@
 <div>
-  <h2>Olá, meu nome é Celso</h2>
+  <h2>Hi, my name is Celso</h2>
   <div align="center">
    <!--- <a href="https://github.com/celso-nantes">
       <img
@@ -13,10 +13,10 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-nantes&layout=compact&langs_count=8&hide_border=true&title_color=296d98&text_color=ffffff&bg_color=ffffff00"
       />--->
     </a>
-    <p align="justify">
-     Tenho 21 anos e estou cursando Engenharia da computação na Universidade Federeal do Espírito Santo (UFES)  </a
+    <p align="justify">     
+I'm 21 years old and I'm studying Computer Engineering at the Federal University of Espírito Santo (UFES)  </a
     </a>
-    <p align="justify"> Minha rede social: </a
+    <p align="justify"> My social network: </a
       > <br /><br />
     </a>
     <a href="https://instagram.com/celso.nantes" target="_blank"
