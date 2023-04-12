@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/celso-nantes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celso-nantes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-nantes&layout=compact&langs_count=16&theme=midnight-purple"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-nantes&layout=compact&langs_count=8&theme=midnight-purple"/> 
 <div> 
    <p align="justify">     
 I'm 21 years old and I'm studying Computer Engineering at the Federal University of Espírito Santo (UFES)  </a
